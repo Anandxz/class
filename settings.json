@@ -1,0 +1,9 @@
+{
+    "code-runner.preserveFocus": true,
+    "code-runner.runInTerminal": true,
+    "code-runner.saveAllFilesBeforeRun": false,
+    "code-runner.saveFileBeforeRun": true,
+    "files.associations": {
+        "iostream": "cpp"
+    }
+}
